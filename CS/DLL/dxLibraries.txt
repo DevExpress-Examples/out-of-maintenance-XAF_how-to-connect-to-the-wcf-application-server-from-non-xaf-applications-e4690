@@ -1,0 +1,11 @@
+DevExpress.Data.v17.2.dll 17.2.1
+DevExpress.ExpressApp.Security.v17.2.dll 17.2.1
+DevExpress.ExpressApp.v17.2.dll 17.2.1
+DevExpress.ExpressApp.Xpo.v17.2.dll 17.2.1
+DevExpress.Xpo.v17.2.dll 17.2.1
+DevExpress.Pdf.v17.2.Core.dll 17.2.1
+DevExpress.Office.v17.2.Core.dll 17.2.1
+DevExpress.RichEdit.v17.2.Core.dll 17.2.1
+DevExpress.RichEdit.v17.2.Export.dll 17.2.1
+DevExpress.Printing.v17.2.Core.dll 17.2.1
+DevExpress.Persistent.Base.v17.2.dll 17.2.1
